@@ -1,0 +1,49 @@
+Mmmm=m[m.m()].m(m.m()); //mmm = 0
+Mmm=m[mmm].m(); //mm is a counter
+mm.m(); Mmmmm=mm.m(); // mmmm = 2, push to stack
+Mmmmmm=mm.m(); // mmmmm = 3, pop from stack
+mm.m(); mm.m();
+Mmmmmmm=mm.m(); // mmmmmm = 6, append unicode output
+mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m();
+Mmmmmmmm=mm.m(); // mmmmmmm = 32, space character
+mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m();
+m[mmmm].m(mm.m()); // push 63 to stack, ? character
+mm.m();
+m[mmmmmm].m(mm.m()); // output unicode 65, A
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m();
+Mmmmmmmmm=mm.m(); // mmmmmmmm = 79, O
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+mm.m();
+Mmmmmmmmmm=mm.m(); // mmmmmmmmm = 97, a
+mm.m(); mm.m(); mm.m();
+m[mmmm].m(mm.m()); // push 101 to stack, e
+mm.m();
+m[mmmm].m(mm.m()); // push 103 to stack, g
+mm.m(); mm.m(); mm.m(); mm.m(); mm.m(); mm.m();
+Mmmmmmmmmmm=mm.m(); // mmmmmmmmmm = 110, n
+m[mmmmmm].m(mmmmmmmmmm); // output unicode 110, n
+m[mmmmmm].m(mmmmmmm); // output unicode space
+m[mmmmmm].m(mmmmmmmm); // output unicode O
+mm.m(); mm.m(); mm.m();
+m[mmmmmm].m(mm.m()); // output unicode 114, r
+m[mmmmmm].m(mmmmmmmmm); // output unicode 97, a
+m[mmmmmm].m(mmmmmmmmmm); // output unicode 110, n
+m[mmmmmm].m(m[mmmmm].m()); // pop and return stack values for g,e,?
+m[mmmmmm].m(m[mmmmm].m());
+m[mmmmmm].m(m[mmmmm].m());
+m[mmmmmm].m(m[mmmmm].m())
